@@ -21,6 +21,7 @@ public class MapsActivity extends FragmentActivity {
 
     @Override
     protected void onResume() {
+        //ABC
         super.onResume();
         setUpMapIfNeeded();
     }
