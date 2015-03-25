@@ -22,6 +22,7 @@ public class MapsActivity extends FragmentActivity {
     @Override
     protected void onResume() {
         //ABC
+        //XYZ
         super.onResume();
         setUpMapIfNeeded();
     }
